@@ -15,7 +15,7 @@ Impact of dopant amount on voltage
 positive correlation: Increasing the dopant amount generally improves the voltage.
 Superiority of Cobalt: Red dots (Co) consistently appear at the top, confirming 
 that Cobalt is the most efficient element for maximizing voltage.
-Minimum Requiremnet: To achieve a positive voltage gain (abobe the baseline),
+Minimum Requirement: To achieve a positive voltage gain (above the baseline),
 a doping amount of at least  0.25 is required.
 
 
