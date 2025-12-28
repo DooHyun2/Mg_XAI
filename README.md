@@ -1,4 +1,4 @@
-<img width="3000" height="1800" alt="colored_JT_distortion" src="https://github.com/user-attachments/assets/4bdb3461-5707-4012-92cf-9f62f3b5bc69" />
+<img width="3000" height="1800" alt="colored_JT_distortion" src="https://github.com/user-attachments/assets/382d410b-4801-46ba-a678-d89691f0625d" />
 
 Jahn-Teller distortion SHAP graph 
 
@@ -11,7 +11,8 @@ Role of Zn (Green Points): Zn-doped samples are clustered in the top-left region
 
 
 
-<img width="3000" height="1800" alt="colored_dopant_amount" src="https://github.com/user-attachments/assets/33925078-4913-43e7-85a8-ee3f36bd44b3" />
+<img width="3000" height="1800" alt="colored_dopant_amount" src="https://github.com/user-attachments/assets/3b788dc2-803b-4184-a81d-cfa6e060d0e3" />
+
 
 Impact of dopant amount on voltage
 
