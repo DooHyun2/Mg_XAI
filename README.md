@@ -26,6 +26,13 @@ a doping amount of at least  0.25 is required.
 <img width="2400" height="930" alt="mg_shap_beeswarm" src="https://github.com/user-attachments/assets/39a433b8-5be5-4d10-9100-757c2ea89b66" />
 
 
+Global Feature Importance (SHAP Beeswarm)
+
+Dominant Factor: Dopant amount is identified as the most critical determinant of battery voltage.
+The wide distribution of points indicates it has the strongest influence on the model's output.
+Positive impact: For dopant amount and dopant code,red dots are located on the right side, confirming that higher concentrations and specific elements boost voltage
+Negative impact: Conversely, for sinter temperature and JT distortion,red dots appear on the left side. This implies that excessive heating and structural distortion negatively affect performance.
+
 
 
 
