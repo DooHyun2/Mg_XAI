@@ -1,3 +1,6 @@
+Analize manganese-based cathode materials
+
+
 <img width="3000" height="1800" alt="colored_JT_distortion" src="https://github.com/user-attachments/assets/382d410b-4801-46ba-a678-d89691f0625d" />
 
 Jahn-Teller distortion SHAP graph 
